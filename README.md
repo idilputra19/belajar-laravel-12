@@ -1,66 +1,82 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🚀 LARAVEL 12
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="500" alt="Laravel Logo">
 
-## About Laravel
+  <p>
+    <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  </p>
+</div>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## ✨ Tentang Laravel 12
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Laravel 12 adalah framework PHP terbaru dengan sintaks yang elegan dan ekspresif. Framework ini dirancang untuk membuat pengalaman pengembangan menjadi menyenangkan tanpa mengorbankan fungsionalitas. Laravel 12 menghilangkan kerumitan dalam pengembangan dengan menyederhanakan tugas-tugas umum yang sering digunakan dalam proyek web, seperti:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Fitur Unggulan
 
-## Learning Laravel
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🔄 **Routing** | [Mesin routing yang cepat dan intuitif](https://laravel.com/docs/routing) |
+| 🧰 **Dependency Injection** | [Container DI yang powerful](https://laravel.com/docs/container) |
+| 💾 **Multi-Storage Backend** | Berbagai backend untuk [session](https://laravel.com/docs/session) dan [cache](https://laravel.com/docs/cache) |
+| 🗄️ **Eloquent ORM** | [ORM database yang ekspresif](https://laravel.com/docs/eloquent) |
+| 📊 **Migrasi** | [Migrasi schema database yang fleksibel](https://laravel.com/docs/migrations) |
+| 🔄 **Queue Jobs** | [Pemrosesan job background yang handal](https://laravel.com/docs/queues) |
+| 📡 **Broadcasting** | [Broadcasting event real-time](https://laravel.com/docs/broadcasting) |
+| 🌐 **Blade Templating** | Sistem template yang kuat dan intuitif |
+| 🔒 **Security** | Proteksi bawaan terhadap serangan umum web |
+| 🧪 **Testing** | Dukungan testing yang komprehensif |
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel 12 tidak hanya mudah diakses, tetapi juga menyediakan alat yang diperlukan untuk aplikasi berskala besar dan kompleks.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 📚 Belajar Laravel 12
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Laravel memiliki [dokumentasi](https://laravel.com/docs) dan pustaka tutorial video yang paling lengkap di antara semua framework aplikasi web modern, memudahkan Anda untuk memulai dengan framework ini.
 
-## Laravel Sponsors
+### Sumber Belajar
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- **[Laravel Bootcamp](https://bootcamp.laravel.com)** - Panduan membangun aplikasi Laravel modern dari awal
+- **[Laracasts](https://laracasts.com)** - Ribuan tutorial video tentang Laravel, PHP modern, unit testing, dan JavaScript
+- **[Laravel News](https://laravel-news.com)** - Sumber berita dan tutorial terbaru seputar Laravel
+- **[Laravel Daily](https://laraveldaily.com)** - Tips dan trik harian untuk pengembang Laravel
 
-### Premium Partners
+## 🌟 Fitur Terbaru di Laravel 12
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **Peningkatan Performa** - Laravel 12 hadir dengan optimasi performa yang signifikan
+- **PHP 8.2+ Support** - Memanfaatkan fitur-fitur terbaru dari PHP 8.2 dan 8.3
+- **API Resources yang Disempurnakan** - Transformasi data API yang lebih fleksibel
+- **Sistem Event yang Ditingkatkan** - Arsitektur event-driven yang lebih powerful
+- **Blade Component Enhancements** - Komponen UI yang lebih modular dan dapat digunakan kembali
+- **Improved Error Handling** - Sistem penanganan error yang lebih informatif dan mudah di-debug
+- **Database Improvements** - Fitur-fitur baru di Eloquent ORM dan Query Builder
 
-## Contributing
+## 🤝 Kontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Terima kasih telah mempertimbangkan untuk berkontribusi pada framework Laravel! Panduan kontribusi dapat ditemukan di [dokumentasi Laravel](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## 📜 Kode Etik
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Untuk memastikan bahwa komunitas Laravel terbuka untuk semua, harap tinjau dan patuhi [Kode Etik](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## 🔐 Kerentanan Keamanan
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Jika Anda menemukan kerentanan keamanan dalam Laravel, silakan kirim email ke Taylor Otwell melalui [taylor@laravel.com](mailto:taylor@laravel.com). Semua kerentanan keamanan akan segera ditangani.
 
-## License
+## 📝 Lisensi
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Framework Laravel adalah perangkat lunak open-source yang dilisensikan di bawah [lisensi MIT](https://opensource.org/licenses/MIT).
+
+---
+
+<div align="center">
+  <p>Dibuat dengan ❤️ oleh Tim Laravel dan Komunitas</p>
+  <p>
+    <a href="https://twitter.com/laravelphp">Twitter</a> •
+    <a href="https://github.com/laravel">GitHub</a> •
+    <a href="https://discord.gg/laravel">Discord</a> •
+    <a href="https://www.youtube.com/laravelphp">YouTube</a>
+  </p>
+</div>
